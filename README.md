@@ -40,7 +40,7 @@ cd sector-etf-analysis
 pip install -r requirements.txt
 ```
 
-## Run Project
+## Start Project
 ```bash
 python src/main.py
 ```
