@@ -35,7 +35,7 @@ This project:
 
 ## Installation & Setup
 ```bash
-git clone https://github.com/yourusername/sector-etf-analysis.git
+git clone https://github.com/saragheisar9-blip/Market_pulse.git
 cd sector-etf-analysis
 pip install -r requirements.txt
 ```
