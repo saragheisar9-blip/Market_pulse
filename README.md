@@ -44,3 +44,11 @@ pip install -r requirements.txt
 ```bash
 python src/main.py
 ```
+
+markdown
+## 🎛 **BONUS: Interactive Dashboard** ⭐ **+3 points**
+
+**Live Demo:**
+bash
+pip install -r requirements.txt
+streamlit run streamlit_app.py
